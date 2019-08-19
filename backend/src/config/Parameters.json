@@ -1,0 +1,6 @@
+{
+    "api_port": 3333,
+    "connectionString": "mongodb://localhost:27017/dataBase",
+    "auth_secret": "a5dbfb3231544c1ab5b705dca36f34aa",
+    "audit": false
+}
