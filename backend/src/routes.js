@@ -19,6 +19,6 @@ routes.get('/', (req, res) => {
 
 });
 
-routes.use(auth); //above - authorization only
+routes.use(auth); //under - authorization only
 
 module.exports = routes;
